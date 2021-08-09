@@ -1,11 +1,11 @@
 package io.runtime.sensoroic.activity;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Switch;
 
+import androidx.appcompat.app.AppCompatActivity;
 import org.iotivity.base.OcException;
 import org.iotivity.base.OcHeaderOption;
 import org.iotivity.base.OcRepresentation;
